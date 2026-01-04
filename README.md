@@ -73,8 +73,8 @@ aws-cloud-webapp/
 ### 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/Kavya-Mehta/aws-cloud-webapp.git
-cd aws-cloud-webapp
+git clone https://github.com/Kavya-Mehta/Cloud-Native-Webapp.git
+cd Cloud-Native-Webapp
 ```
 
 ### 2️⃣ Install Dependencies
