@@ -61,12 +61,11 @@ aws-cloud-webapp/
 
 ## ⚙️ Requirements
 
-Server Operating System: Windows
-Programming Language: JavaScript
-Relational Database: MySQL
-Backend Framework: NodeJS
-ORM Framework:Sequelize
-
+* Server Operating System: Windows
+* Programming Language: JavaScript
+* Relational Database: MySQL
+* Backend Framework: NodeJS
+* ORM Framework:Sequelize
 ---
 
 ## 🚀 Local Setup Instructions
